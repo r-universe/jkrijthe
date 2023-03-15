@@ -1,10 +1,10 @@
 [
   {
-    "package": "RSSL",
+    "package": "Rtsne",
     "oncran": true
   },
   {
-    "package": "Rtsne",
+    "package": "RSSL",
     "oncran": true
   }
 ]

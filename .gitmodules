@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RSSL"]
-	path = RSSL
-	url = https://github.com/jkrijthe/rssl
-	shallow = true
-	registered = true
 [submodule "Rtsne"]
 	path = Rtsne
 	url = https://github.com/jkrijthe/rtsne
+	shallow = true
+	registered = true
+[submodule "RSSL"]
+	path = RSSL
+	url = https://github.com/jkrijthe/rssl
 	shallow = true
 	registered = true
